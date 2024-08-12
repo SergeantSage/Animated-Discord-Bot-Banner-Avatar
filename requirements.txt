@@ -1,5 +1,4 @@
-updateprofile.py
-requests
-python-dotenv
-flask
-colorama
+Flask==2.3.2
+colorama==0.4.6
+python-dotenv==1.0.0
+requests==2.31.0
