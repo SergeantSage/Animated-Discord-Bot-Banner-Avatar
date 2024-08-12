@@ -1,0 +1,5 @@
+updateprofile.py
+requests
+python-dotenv
+flask
+colorama
