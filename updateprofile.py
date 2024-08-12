@@ -17,7 +17,7 @@ if not DISCORD_BOT_TOKEN:
     print(f"{Fore.RED}Error: TOKEN environment variable not set.{Style.RESET_ALL}")
     exit()
 
-PROFILE_IMAGE_URL = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcaitlyn-kirammans.tumblr.com%2Fpost%2F705824920103501824%2Fsage-in-revelation-episode-6-cinematic&psig=AOvVaw1aVTAHo4B9BLauralPsQIz&ust=1723539055052000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjZ_bPt7ocDFQAAAAAdAAAAABAE="
+PROFILE_IMAGE_URL = "https://cdn.discordapp.com/attachments/969074847864987671/1272478618349604906/sage.gif?ex=66bb1f90&is=66b9ce10&hm=5ca18a169c876d9c1c888fbf0f8f486ab6c88623766798e7939c122a5fc9aeaf&="
 BANNER_IMAGE_URL = "https://images-ext-1.discordapp.net/external/E4K6dX-p1FJW163gvd5a7wDwki3Xqzsp2FyTf4UW-lg/%3Fsize%3D4096/https/cdn.discordapp.com/banners/560929309565517887/a_f35fec4baec41b7b4a8b1325aa811a1e.gif="
 
 payload = {}
