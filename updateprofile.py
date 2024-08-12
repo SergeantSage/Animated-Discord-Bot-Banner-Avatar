@@ -17,8 +17,8 @@ if not DISCORD_BOT_TOKEN:
     print(f"{Fore.RED}Error: TOKEN environment variable not set.{Style.RESET_ALL}")
     exit()
 
-PROFILE_IMAGE_URL = "https://media.discordapp.net/attachments/1208810080426795061/1271602484061671424/Gido-PFP-Carl.gif?ex=66b9e9d9&is=66b89859&hm=435b9550427e5f05bbff780e509e83170057b9f576f2380b672826c6b346c801&="
-BANNER_IMAGE_URL = "https://media.discordapp.net/attachments/1208810080426795061/1271602484519112724/Gido-Banner-Carl.gif?ex=66b9e9d9&is=66b89859&hm=36cef24fa243affd09339b811aff865f0169dd29cd64b453724963d13e4941e8&="
+PROFILE_IMAGE_URL = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcaitlyn-kirammans.tumblr.com%2Fpost%2F705824920103501824%2Fsage-in-revelation-episode-6-cinematic&psig=AOvVaw1aVTAHo4B9BLauralPsQIz&ust=1723539055052000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjZ_bPt7ocDFQAAAAAdAAAAABAE="
+BANNER_IMAGE_URL = "https://images-ext-1.discordapp.net/external/E4K6dX-p1FJW163gvd5a7wDwki3Xqzsp2FyTf4UW-lg/%3Fsize%3D4096/https/cdn.discordapp.com/banners/560929309565517887/a_f35fec4baec41b7b4a8b1325aa811a1e.gif="
 
 payload = {}
 
